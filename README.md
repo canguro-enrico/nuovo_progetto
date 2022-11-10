@@ -1,4 +1,4 @@
-# sequenza di Instalazione
+# sequenza di Installazione
 
 1. creazione ambiente virtuale
 
